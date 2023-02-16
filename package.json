@@ -1,0 +1,19 @@
+{
+  "name": "app-tryp-mx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arturoTryp/app-tryp-mx.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arturoTryp/app-tryp-mx/issues"
+  },
+  "homepage": "https://github.com/arturoTryp/app-tryp-mx#readme"
+}
